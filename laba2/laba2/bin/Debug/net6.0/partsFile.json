@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "klient": {
+      "kod": 1,
+      "familiya": " Petrov",
+      "imya": "Ivan",
+      "otchestvo": "Petrovich",
+      "telefon": 89898989,
+      "adres": "Novoselev"
+    },
+    "tovar": 1,
+    "sotrudnik": 1,
+    "usluga": null,
+    "data": 21,
+    "adressalona": 1
+  },
+  {
+    "id": 2,
+    "klient": {
+      "kod": 2,
+      "familiya": " Zlobin",
+      "imya": "Zhora",
+      "otchestvo": "Petrovich",
+      "telefon": 75377525,
+      "adres": "Noviy"
+    },
+    "tovar": 1,
+    "sotrudnik": 1,
+    "usluga": null,
+    "data": 23,
+    "adressalona": 1
+  },
+  {
+    "id": 2,
+    "klient": {
+      "kod": 3,
+      "familiya": " Komarov",
+      "imya": "Igor",
+      "otchestvo": "Petrovich",
+      "telefon": 998939298,
+      "adres": "Solmnaya"
+    },
+    "tovar": 1,
+    "sotrudnik": 1,
+    "usluga": null,
+    "data": 26,
+    "adressalona": 1
+  },
+  {
+    "id": 2,
+    "klient": {
+      "kod": 4,
+      "familiya": " Cherkin",
+      "imya": "Sergey",
+      "otchestvo": "Petrovich",
+      "telefon": 999594050,
+      "adres": "Hazhnaya"
+    },
+    "tovar": 1,
+    "sotrudnik": 1,
+    "usluga": null,
+    "data": 30,
+    "adressalona": 1
+  }
+]
